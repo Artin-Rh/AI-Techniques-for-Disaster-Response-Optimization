@@ -1,6 +1,4 @@
-# AI-Techniques-for-Disaster-Response-Optimization
-
-# **AI Techniques for Disaster Response Optimization**
+# AI Techniques for Disaster Response Optimization
 
 ## **Overview**
 This project applies multiple **Artificial Intelligence (AI) techniques** to optimize disaster response operations. It simulates **multi-agent coordination, resource allocation, and decision-making under uncertainty** in disaster scenarios such as **earthquakes, fires, and road blockages**.
